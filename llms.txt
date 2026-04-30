@@ -1,0 +1,682 @@
+# NoCode App Index
+
+> NoCode App Index is a report-backed index of AI, no-code, and low-code app builders. It compares tools by practical buying questions: coding requirement, database, A/B testing, ecommerce, ads, SEO, analytics, prompt-based building, prompt-based editing, domain needs, publishing model, video-game suitability, survey support, multi-user app support, and ease of sharing.
+
+Canonical site: https://nocodeappindex.com
+Sitemap: https://nocodeappindex.com/sitemap.xml
+Robots: https://nocodeappindex.com/robots.txt
+Source report: ai-no-code-low-code-builders-comparison-report.docx
+Source spreadsheet: ai-no-code-low-code-builders-comparison-report.xlsx
+Image assets: image-assets/
+
+## Site Scope
+
+In-Depth Comparison Report: 26 AI / No-Code / Low-Code Builders Researched from current official product pages, help centers, docs, and pricing pages reviewed on April 28, 2026. What this report answers For every tool you listed, this report answers the same 15 buying questions: coding requirement, database, A/B testing, ecommerce, ads, SEO, analytics, prompt-based building, prompt-based editing, domain needs, publishing model, video-game suitability, survey support, multi-user app support, and ease of sharing.
+
+The site is generated from the comparison spreadsheet and companion DOCX report. Product pages include review schema and FAQ schema. Index and guide pages include FAQ schema. Product facts should be treated as report-backed summaries from official product pages, help centers, docs, and pricing pages reviewed for the source report.
+
+## Core Pages
+
+- Home: https://nocodeappindex.com/
+- Reviews index: https://nocodeappindex.com/reviews/
+- Side-by-side comparison: https://nocodeappindex.com/compare/
+- Feature chart: https://nocodeappindex.com/features/
+- Methodology: https://nocodeappindex.com/methodology/
+- Sources: https://nocodeappindex.com/sources/
+
+## Guide Pages
+
+- Best AI App Builders: https://nocodeappindex.com/best-ai-app-builders/
+  - Lovable, Bolt, Base44, Firebase Studio, and Div-idy are the report's strongest pure prompt-to-full-stack builders. Replit and v0 are also strong when code ownership matters.
+- Best AI Website Builders: https://nocodeappindex.com/website-builders/
+  - Webflow, Framer, Wix, and Durable are the report's strongest public website and SEO stacks. Hostinger Horizons and Softr also belong in the website-builder conversation for AI-assisted publishing and portals.
+- Best Internal Tool Builders: https://nocodeappindex.com/internal-tool-builders/
+  - Retool, Appsmith, Budibase, Superblocks, and Power Apps are the report's strongest internal-tool platforms. Airtable, AppSheet, Zoho Creator, Noloco, and Glide are stronger for data-backed business apps and portals.
+- Best No-Code Business Portal Builders: https://nocodeappindex.com/business-portal-builders/
+  - Softr, Glide, Noloco, Zoho Creator, and AppSheet are best when a non-coder wants a business portal or lightweight workflow app tied to structured data.
+- Best Builders for Code Ownership: https://nocodeappindex.com/code-ownership-builders/
+  - Replit, v0, Cursor, Firebase Studio, and WeWeb are the report's strongest fits when real code ownership, custom deployment, or developer handoff matters.
+
+## Key Answers
+
+### What questions does this no-code builder report answer?
+The report answers the same buying questions for every tool: coding requirement, database, A/B testing, ecommerce, ads, SEO, analytics, prompt-based building, prompt-based editing, domain needs, publishing model, video-game suitability, survey support, multi-user app support, and ease of sharing.
+
+### Which tools are best for pure prompt-to-full-stack app building?
+The report identifies Lovable, Bolt, Base44, Firebase Studio, and Div-idy as the best pure prompt-to-full-stack builders, with Replit and v0 also strong when code ownership matters.
+
+### Which tools are best for public websites and SEO?
+The report calls out Webflow, Framer, Wix, and Durable as the strongest public website and SEO stacks.
+
+### How many tools are included in the comparison?
+The comparison includes 26 AI, no-code, and low-code builders from the source spreadsheet.
+
+## Feature Label Definitions
+
+### What does Native mean in the feature chart?
+Native means the feature is built into the platform or is clearly first-party according to the report's interpretation rules.
+
+### What does Official mean in the feature chart?
+Official means the capability is supported through an official integration or tightly supported ecosystem feature, even if it is a separate service.
+
+### What does Third-party mean in the feature chart?
+Third-party means the capability usually requires an outside product, plugin, script, or manual setup.
+
+### What does Partial or Limited mean in the feature chart?
+Partial means the capability is possible but not fully native end to end. Limited means it works only in narrower scenarios or is not a core strength.
+
+## Report Interpretation Rules
+
+- Native: Built into the platform or clearly first-party.
+- Official: Officially supported integration or tightly supported ecosystem feature, even if it is a separate service.
+- Third-party: Usually requires an external product, plugin, script, or manual setup.
+- Partial: Possible, but not fully native end to end.
+- Limited: Works only in narrower scenarios or is not a core strength.
+- No / not found: No official native feature was found in the current docs reviewed for this comparison.
+
+## Product Index
+
+### Airtable
+- URL: https://nocodeappindex.com/airtable/
+- Category: Database + interface platform
+- Score: 48
+- Best fit: Structured data workflows, lightweight internal apps, forms, and collaborative dashboards around data.
+- Main caveat: Excellent database foundation, but weak fit for public web-app publishing, SEO sites, or game-like products.
+- Coding needed: No.
+- Database: Native - Native. Airtable is itself the database.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: No - No official native ecommerce suite found.
+- Ads: No - No official native ad tooling found.
+- SEO: No - Not a public SEO website builder.
+- Analytics: No - No first-party public web analytics stack found in the docs reviewed.
+- Build by prompt: Partial. Omni can build AI-generated interface elements and work with data in natural language.
+- Edit by prompt: Partial. Traditional interface pages are still more manual than fully prompt-driven.
+- Need custom domain to go public: Usually no custom domain is needed because Airtable shares via Airtable links, but it is also not a normal website-hosting workflow. Custom domains are limited and enterprise-specific.
+- Publishing model: Share bases, interfaces, and forms through Airtable URLs rather than classic website deployment.
+- Video games: No.
+- Surveys save responses: Yes. Forms save submissions as records.
+- Multi-user web apps: Limited/partial. Good for collaborative apps, but not a full consumer SaaS platform by default.
+- Easy sharing: Easy.
+- Sources reviewed: airtable.com, support.airtable.com
+
+### AppSheet
+- URL: https://nocodeappindex.com/appsheet/
+- Category: Google no-code business app builder
+- Score: 55
+- Best fit: Google-centric business process apps and mobile/web data collection.
+- Main caveat: Publishing, branding, and public-site SEO are not its strongest areas.
+- Coding needed: No.
+- Database: Native - Native or external. AppSheet Database exists, and AppSheet also supports many external data sources.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: No - No official native ecommerce suite found.
+- Ads: No - No official native ad tooling found.
+- SEO: No - Not a public SEO website builder.
+- Analytics: No - No strong first-party public web analytics layer found in the docs reviewed.
+- Build by prompt: Yes. Gemini can generate app structure from a description.
+- Edit by prompt: Partial. AI helps with setup, but refinement is still largely done through the builder.
+- Need custom domain to go public: Usually no custom domain is needed because apps are shared through AppSheet links and embedding, but that also means it is not a traditional website platform.
+- Publishing model: One-click deploy and share with users; not an app-store or traditional website deployment model.
+- Video games: No.
+- Surveys save responses: Yes. Forms and data capture are a core use case.
+- Multi-user web apps: Yes.
+- Easy sharing: Easy.
+- Sources reviewed: appsheet.com, support.google.com
+
+### Appsmith
+- URL: https://nocodeappindex.com/appsmith/
+- Category: Open-source internal app builder
+- Score: 45
+- Best fit: Teams that want open-source control over internal dashboards and admin tools.
+- Main caveat: Compared with newer AI-first builders, it asks for more hands-on technical work and external data setup.
+- Coding needed: Helpful to often necessary. JavaScript and database thinking are common in Appsmith projects.
+- Database: Partial - Usually third-party. App data typically lives in connected databases or APIs, not in a first-party general-purpose Appsmith app DB.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: No - No native ecommerce suite.
+- Ads: No - No native ad tooling.
+- SEO: No - Not a public SEO website platform.
+- Analytics: No - No strong first-party marketing analytics found in the docs reviewed.
+- Build by prompt: Partial. AI support exists, but it is not a strong full app-from-prompt workflow compared with Bolt, Lovable, or Base44.
+- Edit by prompt: Partial. AI can help generate code, queries, and pieces of app logic.
+- Need custom domain to go public: No if you use Appsmith Cloud or self-hosting defaults, but yes if you want your own branded domain. Custom domain setup depends on deployment model.
+- Publishing model: Deploy on Appsmith Cloud or self-host your own instance; share apps through that environment.
+- Video games: No.
+- Surveys save responses: Yes, if you connect forms to a datasource.
+- Multi-user web apps: Yes for internal multi-user apps.
+- Easy sharing: Moderate to easy, especially for technical teams.
+- Sources reviewed: appsmith.com, docs.appsmith.com
+
+### Base44
+- URL: https://nocodeappindex.com/base44/
+- Category: AI app builder with managed backend
+- Score: 86
+- Best fit: Prompt-built business apps, customer-facing tools, and founders who want a managed backend out of the box.
+- Main caveat: It handles many core app needs well, but experimentation and ad tooling are still not first-party strengths.
+- Coding needed: No for most common use cases. The platform is explicitly aimed at people without technical skills.
+- Database: Native - Native. Base44 includes managed app data and backend functions, so you do not need a third-party database to begin.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: Official - Official payments support through Stripe. Good for payments and billing, though not the same as a full Shopify-style commerce stack.
+- Ads: Third-party - Third-party/manual.
+- SEO: Native - Native. Base44 documents search visibility controls and encourages custom domains for production SEO.
+- Analytics: Native - Native. Base44 includes app analytics for traffic and sales-style tracking.
+- Build by prompt: Yes.
+- Edit by prompt: Yes.
+- Need custom domain to go public: No. A hosted Base44 URL is available first; a custom domain is optional.
+- Publishing model: One-click publish to a Base44-hosted URL, with shareable testing links and optional custom domains.
+- Video games: Yes for casual/simple web games and interactive experiences.
+- Surveys save responses: Yes. Form-driven apps can save responses to the built-in data layer.
+- Multi-user web apps: Yes. Auth and permissions make multi-user apps possible.
+- Easy sharing: Easy.
+- Sources reviewed: base44.com, docs.base44.com
+
+### Bolt
+- URL: https://nocodeappindex.com/bolt/
+- Category: AI full-stack app builder
+- Score: 80
+- Best fit: People who want to type a prompt and get something hosted quickly, especially for startup prototypes and small production apps.
+- Main caveat: It is strong for generation and hosting, but A/B testing and richer marketing/ads stacks are still outside its core feature set.
+- Coding needed: No for basic use. Prompting matters more than coding knowledge at the start, though code awareness helps on larger projects.
+- Database: Native - Native or official. Bolt offers Bolt Database and also supports official Supabase-based paths, so you do not have to start with a third-party database.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed. Plan to use third-party tools for experimentation.
+- Ecommerce: Official - Official payments support is available through Stripe. That is enough for checkout and subscriptions, though not the same as a giant retail back office.
+- Ads: No - Third-party/manual. Ads are not a headline native Bolt capability.
+- SEO: Partial - Native/partial. Bolt documents SEO help such as SEO Boost, especially once a custom domain is connected.
+- Analytics: Native - Native on paid plans. Basic project analytics are built in, which reduces the need for an external analytics tool at launch.
+- Build by prompt: Yes. This is a core use case.
+- Edit by prompt: Yes. Existing projects can be refined with follow-up prompts.
+- Need custom domain to go public: No. You can publish to a free bolt.host address before buying a custom domain.
+- Publishing model: Built-in hosting publishes to a bolt.host URL. You can connect your own domain later.
+- Video games: Yes for simple browser and lightweight app-style games. Not a full game-development engine.
+- Surveys save responses: Yes. You can build forms and save responses using the database/auth stack.
+- Multi-user web apps: Yes. Multi-user flows are possible with database and auth support.
+- Easy sharing: Easy. Bolt-hosted URLs are shareable immediately.
+- Sources reviewed: bolt.new, stackblitz.com
+
+### Bubble
+- URL: https://nocodeappindex.com/bubble/
+- Category: No-code visual web app builder
+- Score: 71
+- Best fit: Non-coders who want real custom web-app logic and are willing to learn a visual programming model.
+- Main caveat: It is powerful, but advanced apps can get complex to manage and the AI editing experience is still more partial than all-in prompt builders.
+- Coding needed: No. Bubble is fundamentally no-code, though technical thinking still helps.
+- Database: Native - Native. Bubble includes its own database and privacy rules.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: Partial - Usually third-party/plugin/custom workflow. Bubble can absolutely support stores or payments, but not through a single first-party ecommerce suite.
+- Ads: Third-party - Third-party/plugin/manual.
+- SEO: Native - Native. Bubble has documented SEO controls and settings.
+- Analytics: No - Usually third-party/plugin for product or marketing analytics. Bubble has logs and platform metrics, but not a standout native website analytics suite.
+- Build by prompt: Yes. Bubble AI can generate app structures and UI from prompts.
+- Edit by prompt: Partial. Bubble AI Agent can create or modify some elements, but the visual editor is still a major part of editing.
+- Need custom domain to go public: No. Bubble-hosted URLs exist first; custom domains are optional.
+- Publishing model: Develop in a Bubble app, then deploy to live and optionally attach a custom domain.
+- Video games: Limited. Simple browser games are possible, but Bubble is not ideal for game-heavy apps.
+- Surveys save responses: Yes. Forms and workflows can store submissions natively.
+- Multi-user web apps: Yes. User accounts, privacy rules, and workflows support multi-user apps.
+- Easy sharing: Easy to share live apps; collaboration is also well supported.
+- Sources reviewed: bubble.io, manual.bubble.io
+
+### Budibase
+- URL: https://nocodeappindex.com/budibase/
+- Category: Open-source app and workflow builder
+- Score: 48
+- Best fit: Internal forms, workflow apps, and teams that like open-source/self-hosted options.
+- Main caveat: It is less polished as a consumer-facing public app builder than website-first or AI-native app builders.
+- Coding needed: No for basics, but helpful for advanced logic and integrations.
+- Database: Native - Native. Budibase includes its own database layer.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: No - No official native ecommerce suite found.
+- Ads: No - No official native ad tooling found.
+- SEO: No - Not a public SEO-first platform.
+- Analytics: No - No strong first-party marketing analytics feature found in the docs reviewed.
+- Build by prompt: Partial. Budibase AI helps with tables, automations, and AI-enabled workflows more than complete polished app generation from one prompt.
+- Edit by prompt: Partial.
+- Need custom domain to go public: No if you are happy with hosted/self-hosted defaults; yes if you want a branded custom domain in production.
+- Publishing model: Publish on Budibase Cloud or self-hosted infrastructure; custom domains are typically configured at the hosting/reverse-proxy layer.
+- Video games: No.
+- Surveys save responses: Yes. Public forms are a good fit.
+- Multi-user web apps: Yes.
+- Easy sharing: Moderate.
+- Sources reviewed: budibase.com, docs.budibase.com
+
+### Cursor
+- URL: https://nocodeappindex.com/cursor/
+- Category: AI-first code editor
+- Score: 64
+- Best fit: Developers or technical founders who want AI pair-programming inside a serious code editor.
+- Main caveat: It is powerful, but it is not a hosted builder like Lovable, Bolt, or Wix.
+- Coding needed: Yes, or at least strongly recommended. Cursor assumes a coding workflow.
+- Database: Third-party - Third-party/external. Cursor does not include an app database platform.
+- A/B testing: Third-party - Third-party/external.
+- Ecommerce: Third-party - Third-party/external.
+- Ads: Third-party - Third-party/external.
+- SEO: Third-party - Manual. SEO depends on the framework and app you build, not on Cursor itself.
+- Analytics: Third-party - Third-party/external.
+- Build by prompt: Yes. Cursor can generate code and implementation plans from prompts.
+- Edit by prompt: Yes. Prompt-based editing is one of its strengths.
+- Need custom domain to go public: Yes, through whichever hosting provider you choose. Cursor itself does not publish to the web.
+- Publishing model: You deploy elsewhere, such as Vercel, Netlify, your own server, or cloud infrastructure.
+- Video games: Yes if you code them, but Cursor is just the editor layer.
+- Surveys save responses: Yes if you build the app and storage yourself.
+- Multi-user web apps: Yes if you build it, but Cursor is not what gives you that capability.
+- Easy sharing: Good for code sharing and repo collaboration; not instant live-app sharing by itself.
+- Sources reviewed: cursor.com, docs.cursor.com
+
+### Div-idy
+- URL: https://nocodeappindex.com/div-idy/
+- Category: AI web app builder
+- Score: 81
+- Best fit: Builders who want a very prompt-first workflow with built-in growth tooling and easy publishing to a hosted URL.
+- Main caveat: It appears promising and unusually feature-rich, but it is far less established than bigger platforms here, and the reviewed docs point mainly to Div-idy-hosted URLs rather than custom domains.
+- Coding needed: No.
+- Database: Native - Native. Div-idy’s FAQ says it includes a real-time database for forms, leads, and app data.
+- A/B testing: Native - Native. Div-idy documents an A/B Tests tool for variants and traffic-splitting.
+- Ecommerce: No - No official first-party ecommerce/store suite found in the docs reviewed. The platform talks more about ads, affiliate monetization, and custom app flows than a built-in commerce stack.
+- Ads: Native - Native. Div-idy documents an Ads tool and related setup guidance.
+- SEO: Native - Native. The platform documents metadata, sitemaps, and indexable public projects.
+- Analytics: Native - Native. Div-idy documents an Analytics tool for sessions, events, sources, and trends.
+- Build by prompt: Yes.
+- Edit by prompt: Yes.
+- Need custom domain to go public: No. Div-idy says you can publish to a shareable Div-idy URL without domain setup. In the reviewed FAQ, using your own domain was not confirmed as a supported workflow.
+- Publishing model: One-click publish to Div-idy-hosted URLs with private, unlisted, or public visibility. Public projects can be indexed and shared easily.
+- Video games: Yes for browser games and game-like experiences.
+- Surveys save responses: Yes. Forms can save submissions to the built-in database.
+- Multi-user web apps: Yes for database-backed tools and multi-user style web apps, though the exact auth depth is less documented than larger platforms.
+- Easy sharing: Easy.
+- Sources reviewed: div-idy.com
+
+### Durable
+- URL: https://nocodeappindex.com/durable/
+- Category: AI website builder for small businesses
+- Score: 69
+- Best fit: Service businesses, consultants, and local SMBs that need a public site and basic business tooling fast.
+- Main caveat: It is not a serious app builder for custom multi-user software.
+- Coding needed: No.
+- Database: No - Limited/native only for business-style data such as leads, contacts, or CRM records. It is not a general app database platform.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: No - Partial/official. Durable supports payments and lighter ecommerce-style use cases, but it is not a deep commerce platform.
+- Ads: No - No official native ad tooling found.
+- SEO: Native - Native. Automated SEO is one of Durable’s headline selling points.
+- Analytics: Native - Native basic analytics, plus integration options such as Google Analytics.
+- Build by prompt: Yes.
+- Edit by prompt: Partial. AI assistance is available, but editing also relies on the site builder/dashboard.
+- Need custom domain to go public: No. Durable gives you a hosted subdomain first; custom domains are optional on paid plans.
+- Publishing model: Generate a site, then publish through Durable-hosted infrastructure. Paid plans are generally needed for full production publishing.
+- Video games: No.
+- Surveys save responses: Yes for lead forms and simple response collection.
+- Multi-user web apps: Limited/no for true multi-user apps. Durable is more website plus business tools than app platform.
+- Easy sharing: Easy for public websites.
+- Sources reviewed: durable.co
+
+### Firebase Studio
+- URL: https://nocodeappindex.com/firebase-studio/
+- Category: Google agentic dev environment
+- Score: 85
+- Best fit: Builders who want prompt-based generation but also want a serious Google-backed backend and analytics stack.
+- Main caveat: The prototype-to-production path is strong, but advanced work still benefits from developer comfort.
+- Coding needed: No for early prototypes, but helpful for production hardening and advanced features.
+- Database: Native - Native. Firebase services such as Firestore and related backend tools are directly provisioned from the Studio workflow.
+- A/B testing: Native - Native. Firebase A/B Testing is a first-party platform feature.
+- Ecommerce: Third-party - Third-party/manual. You can integrate payment tools, but there is no automatic store suite built into Studio itself.
+- Ads: Third-party - Third-party/manual for web apps. Google has monetization products, but that is not the same as a built-in Studio ad workflow.
+- SEO: Limited - Limited/manual. SEO depends on the generated web app and hosting setup more than on a dedicated SEO control center.
+- Analytics: Native - Native. Google Analytics for Firebase is built into the platform.
+- Build by prompt: Yes.
+- Edit by prompt: Yes.
+- Need custom domain to go public: No. Firebase provides free hosted subdomains; custom domains are optional.
+- Publishing model: Publish to Firebase App Hosting, Firebase Hosting, or Cloud Run directly from the Studio workflow.
+- Video games: Yes for web and mobile games built on app frameworks; not a game engine.
+- Surveys save responses: Yes.
+- Multi-user web apps: Yes. Firebase Auth and database services support real multi-user apps.
+- Easy sharing: Easy for live apps and reasonable for team collaboration.
+- Sources reviewed: firebase.google.com, developers.google.com
+
+### Framer
+- URL: https://nocodeappindex.com/framer/
+- Category: AI website builder
+- Score: 74
+- Best fit: Fast startup sites, launch pages, product-marketing pages, and visually clean public websites.
+- Main caveat: It is not a full app backend platform for complex multi-user software.
+- Coding needed: No.
+- Database: No - No general native app database. Framer has CMS, forms, and external integrations, but not a built-in full app backend.
+- A/B testing: Native - Native/official through Framer Convert and related testing functionality.
+- Ecommerce: Third-party - Third-party/manual.
+- Ads: Third-party - Third-party/manual.
+- SEO: Native - Native and strong. Framer includes sitemap and robots support plus page-level SEO controls.
+- Analytics: Native - Native.
+- Build by prompt: Yes.
+- Edit by prompt: Partial. Prompting helps, but visual editing is still central.
+- Need custom domain to go public: No. A Framer-hosted URL is available first; custom domains are optional.
+- Publishing model: Publish to a Framer-hosted URL or connect a custom domain.
+- Video games: No.
+- Surveys save responses: Yes. Native forms can send data by email, webhook, or Google Sheets.
+- Multi-user web apps: Limited. Good for collaboration and some gated experiences, but not a full SaaS backend.
+- Easy sharing: Easy.
+- Sources reviewed: framer.com, help.framer.com
+
+### Glide
+- URL: https://nocodeappindex.com/glide/
+- Category: No-code app builder from data sources
+- Score: 77
+- Best fit: Teams that want fast internal tools, lightweight portals, and form-driven apps from spreadsheets or simple tables.
+- Main caveat: Its public SEO story is weak, and it is much better for operational apps than for public discoverable websites.
+- Coding needed: No.
+- Database: Native - Native and external. Glide Tables are built in, and you can also connect spreadsheets and other data sources.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: Third-party - Third-party/manual.
+- Ads: Third-party - Third-party/manual.
+- SEO: No - Limited. Glide explicitly notes that published apps are not indexed by search engines, so this is not a strong SEO platform.
+- Analytics: Official - Official integration rather than strong native analytics. Google Analytics and GTM can be connected.
+- Build by prompt: Yes. Glide Agent can generate screens and app structure from prompts.
+- Edit by prompt: Yes/partial. Agent can modify an existing app, though manual editing is also common.
+- Need custom domain to go public: No. Glide provides a hosted URL first; custom domains are available on some paid plans.
+- Publishing model: Publish directly from the builder to a Glide-hosted URL, with optional custom-domain support on qualifying plans.
+- Video games: Limited. Very simple game-like experiences are possible, but Glide is not built for games.
+- Surveys save responses: Yes. Native forms can save responses into app data.
+- Multi-user web apps: Yes. Roles and sign-in options support multi-user apps.
+- Easy sharing: Easy.
+- Sources reviewed: glideapps.com, glide.page
+
+### Hostinger Horizons
+- URL: https://nocodeappindex.com/hostinger-horizons/
+- Category: AI no-code web app builder
+- Score: 81
+- Best fit: Entrepreneurs and first-time builders who want a hosted prompt-built web app without setting up infrastructure by hand.
+- Main caveat: It is easier than coding, but official docs still warn that complex apps need smart prompting and sometimes external services.
+- Coding needed: No for basic use, though better prompts and some web knowledge help on more advanced apps.
+- Database: Partial - Partial/native plus official integrations. Horizons has built-in data handling for common app data, but more serious backend scenarios often use integrations such as Supabase.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: Partial - Partial/official. Stripe and online-store-related integrations exist, but complex ecommerce is not its core strength.
+- Ads: Official - Official integration. Hostinger documents Google AdSense integration for Horizons.
+- SEO: Partial - Native/partial. It includes SEO settings, sitemap and robots generation, and GEO-related controls.
+- Analytics: Native - Native. Hostinger documents built-in analytics for Horizons projects.
+- Build by prompt: Yes.
+- Edit by prompt: Yes.
+- Need custom domain to go public: No. A temporary/default URL is available first; custom domains are optional.
+- Publishing model: One-click deploy on Hostinger-hosted infrastructure, then optionally connect a custom domain or subdomain.
+- Video games: Limited. Official guidance says 3D and complex gaming platforms are not supported; simple interactive browser experiences are more realistic.
+- Surveys save responses: Yes.
+- Multi-user web apps: Yes, but more complex auth/data flows may need extra setup.
+- Easy sharing: Easy.
+- Sources reviewed: hostinger.com, support.hostinger.com
+
+### Lovable
+- URL: https://nocodeappindex.com/lovable/
+- Category: AI prompt-to-app builder
+- Score: 84
+- Best fit: Fast MVPs, SaaS prototypes, client apps, and teams that want full-stack generation without assembling many services first.
+- Main caveat: Great native app stack, but A/B testing and ad tooling still usually need outside services or custom setup.
+- Coding needed: No for basic use; code is helpful for advanced polishing. You can start from natural language and keep iterating without being a developer.
+- Database: Native - Native. Lovable Cloud includes a built-in database plus auth, storage, and backend services, so you do not need a third party to get started.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed. Use third-party experimentation tools or custom logic if you need traffic-splitting tests.
+- Ecommerce: Official - Official payments support is available through Stripe and Paddle. That covers checkout and billing use cases, though a full store setup may still need app-specific work.
+- Ads: No - Third-party/manual. Ad networks are not a core built-in Lovable feature.
+- SEO: Native - Native. Lovable documents support for SEO and GEO basics such as metadata, sitemaps, structured data, and performance-minded output.
+- Analytics: Native - Native. Lovable includes project analytics, so you do not have to bolt on a separate analytics stack just to get basic visibility.
+- Build by prompt: Yes. Prompting is a core workflow.
+- Edit by prompt: Yes. You can continue editing and extending a project with follow-up prompts.
+- Need custom domain to go public: No. You can publish to a Lovable-hosted URL first; a custom domain is optional for a branded launch.
+- Publishing model: Publish to a hosted lovable.app URL, then optionally connect a custom domain on supported plans. Hosting is handled for you.
+- Video games: Yes, but mainly simple browser games, quizzes, and simulations. It is not a specialized game engine.
+- Surveys save responses: Yes. Form-based apps and surveys can save responses to the built-in backend.
+- Multi-user web apps: Yes. Built-in auth and backend services make multi-user apps realistic.
+- Easy sharing: Easy. Share a live URL and collaborate on the project.
+- Sources reviewed: lovable.dev, docs.lovable.dev
+
+### Noloco
+- URL: https://nocodeappindex.com/noloco/
+- Category: No-code client portal and ops app builder
+- Score: 76
+- Best fit: Client portals, onboarding systems, lightweight CRMs, and role-based business apps.
+- Main caveat: Its public-site SEO and experimentation capabilities are much weaker than marketing-oriented site builders.
+- Coding needed: No.
+- Database: Native - Native or external. Noloco Tables are built in, and you can also connect external databases or spreadsheets.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: Official - Official integrations exist for tools like Stripe or PayPal, but this is more payments/invoicing integration than a full native commerce suite.
+- Ads: No - No official native ad tooling found.
+- SEO: No - Limited. SEO is not a core Noloco strength.
+- Analytics: Limited - Limited. External tracking is usually the better path.
+- Build by prompt: Yes/partial. AI can generate layouts and accelerate setup.
+- Edit by prompt: Yes.
+- Need custom domain to go public: No. A platform URL is available first; custom domains are optional.
+- Publishing model: Publish a Noloco app or portal immediately and optionally connect your own domain.
+- Video games: No.
+- Surveys save responses: Yes. Public forms are supported.
+- Multi-user web apps: Yes. Roles and portals are core use cases.
+- Easy sharing: Easy.
+- Sources reviewed: noloco.io, docs.noloco.io
+
+### Power Apps
+- URL: https://nocodeappindex.com/power-apps/
+- Category: Microsoft low-code app platform
+- Score: 60
+- Best fit: Enterprise teams already living in Microsoft 365, Dynamics, Azure, or Dataverse.
+- Main caveat: Very strong for internal and line-of-business apps, but not the best fit for public consumer websites or SEO-first launches.
+- Coding needed: No for basics; helpful for advanced Power Fx, connectors, and governance.
+- Database: Native - Native. Dataverse is the built-in managed data layer.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: No - No official native ecommerce suite found.
+- Ads: No - No official native ad tooling found.
+- SEO: No - Not a public SEO website builder.
+- Analytics: No - Limited. Admin and app monitoring exist, but it is not a consumer-facing marketing analytics platform.
+- Build by prompt: Yes. Copilot can help build apps through conversation.
+- Edit by prompt: Partial. Copilot helps, but editing is not purely prompt-based end to end.
+- Need custom domain to go public: Usually no custom domain is needed for internal or guest-shared apps, but Power Apps itself is not really a classic public website publishing tool.
+- Publishing model: Save and publish apps to shared users, groups, or guest users inside the Microsoft ecosystem.
+- Video games: No.
+- Surveys save responses: Yes. Data-entry and form apps are easy to build.
+- Multi-user web apps: Yes.
+- Easy sharing: Easy inside Microsoft environments.
+- Sources reviewed: microsoft.com, learn.microsoft.com, powerapps.microsoft.com
+
+### Replit
+- URL: https://nocodeappindex.com/replit/
+- Category: AI coding + hosting platform
+- Score: 75
+- Best fit: Builders who want AI help, hosted deployment, and code ownership in the same product.
+- Main caveat: It is friendlier than a traditional dev stack, but serious work still benefits from coding knowledge more than pure no-code builders do.
+- Coding needed: Not required to start, but definitely helpful for production-quality work and troubleshooting.
+- Database: Native - Native. Replit includes built-in database options and can share data across apps, so you are not forced into a third-party DB from day one.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed. Use third-party or custom-built experimentation.
+- Ecommerce: No - Third-party/manual. Replit gives you the coding and hosting layer, not a built-in ecommerce suite.
+- Ads: Third-party - Third-party/manual.
+- SEO: No - Limited/manual. You can implement SEO in your app code and deployment settings, but Replit is not a dedicated SEO platform.
+- Analytics: Native - Native for published apps. Replit includes monitoring and web analytics for deployments, such as page views and performance data.
+- Build by prompt: Yes. Agent can generate apps from natural-language instructions.
+- Edit by prompt: Yes. You can keep using Agent to change the app after generation.
+- Need custom domain to go public: No. You can publish to a replit.app URL first; custom domains are optional.
+- Publishing model: Publish directly from the workspace to hosted Replit deployments, with optional custom domains or even domain purchase inside Replit.
+- Video games: Yes. Browser games and multiplayer web experiences are realistic, especially because you control the code.
+- Surveys save responses: Yes. Easy to build with built-in database and deployment.
+- Multi-user web apps: Yes. Replit is flexible enough for true multi-user web apps.
+- Easy sharing: Easy. Apps, workspaces, and live deployments are easy to share.
+- Sources reviewed: replit.com, docs.replit.com
+
+### Retool
+- URL: https://nocodeappindex.com/retool/
+- Category: Internal tool and portal builder
+- Score: 64
+- Best fit: Ops teams, internal dashboards, admin panels, customer-support tooling, and back-office apps.
+- Main caveat: It is not intended to be a public SEO website builder or a game tool.
+- Coding needed: Helpful but not always mandatory. SQL and some JavaScript knowledge improve results a lot.
+- Database: Native - Native plus external. Retool Database exists, and Retool also connects well to external databases and APIs.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: No - No native ecommerce suite. Use custom integrations if needed.
+- Ads: No - No native ad tooling.
+- SEO: No - Not a public SEO platform.
+- Analytics: No - Limited/native for operations rather than marketing. Retool provides monitoring/versioning/usage context, but not a big public site analytics layer.
+- Build by prompt: Yes. Retool AI can create apps from scratch.
+- Edit by prompt: Yes. Existing apps can be edited with AI assistance.
+- Need custom domain to go public: No. Public or cloud-hosted URLs exist first; custom domains are available for supported org setups.
+- Publishing model: Deploy on Retool Cloud or self-host, with options for internal tools, portals, and public forms.
+- Video games: No.
+- Surveys save responses: Yes. Retool Forms can collect and store responses.
+- Multi-user web apps: Yes. Multi-user business apps are a core use case.
+- Easy sharing: Easy in team and business contexts.
+- Sources reviewed: retool.com, docs.retool.com
+
+### Softr
+- URL: https://nocodeappindex.com/softr/
+- Category: No-code portal and app builder
+- Score: 78
+- Best fit: Client portals, internal tools, directory sites, membership apps, and teams who want to move fast without coding.
+- Main caveat: It is easier than Bubble for many business use cases, but less suited to deeply custom application logic or games.
+- Coding needed: No.
+- Database: Native - Native or external. Softr Databases are available, and you can also connect external data sources.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: No - Official payments support through Stripe checkout, billing, and portals, but not a full enterprise commerce suite.
+- Ads: Third-party - Third-party/manual.
+- SEO: Native - Native. Softr includes SEO settings and guidance for public apps/sites.
+- Analytics: Official - Official integration rather than deep native analytics. Google Analytics is supported.
+- Build by prompt: Yes. AI Co-Builder can generate apps from prompts.
+- Edit by prompt: Yes. Prompt-based changes are supported.
+- Need custom domain to go public: No. You can publish publicly on a Softr URL first; custom domains are optional.
+- Publishing model: One-click publish to a Softr-hosted URL, with optional custom domains and permissions settings.
+- Video games: No or not ideal. Softr is much more a business app platform than a game platform.
+- Surveys save responses: Yes.
+- Multi-user web apps: Yes. Portals, permissions, and user groups are a core strength.
+- Easy sharing: Easy.
+- Sources reviewed: softr.io, docs.softr.io
+
+### Superblocks
+- URL: https://nocodeappindex.com/superblocks/
+- Category: Enterprise AI app platform
+- Score: 58
+- Best fit: Enterprises building internal apps, admin tools, secure portals, and workflow software on top of existing systems.
+- Main caveat: Very good for enterprise apps, weak fit for public websites, SEO, or indie no-code launches.
+- Coding needed: Helpful but not strictly required. Technical teams will get more out of it.
+- Database: Third-party - Usually external. Superblocks connects to enterprise data sources rather than shipping a general-purpose native app database as its main model.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: No - No official native ecommerce suite found.
+- Ads: No - No official native ad tooling found.
+- SEO: No - Not a public SEO website platform.
+- Analytics: Limited - Limited/operational. Observability and governance matter here more than public marketing analytics.
+- Build by prompt: Yes.
+- Edit by prompt: Yes.
+- Need custom domain to go public: No for internal/hosted access, but yes if you want a branded domain in enterprise deployment scenarios.
+- Publishing model: Host or embed apps inside enterprise environments, internal tools, or external portals, including custom enterprise deployment patterns.
+- Video games: No.
+- Surveys save responses: Yes, if you build forms backed by your data sources.
+- Multi-user web apps: Yes. Auth, roles, and enterprise access control are core strengths.
+- Easy sharing: Easy in enterprise contexts.
+- Sources reviewed: superblocks.com, docs.superblocks.com
+
+### v0
+- URL: https://nocodeappindex.com/v0/
+- Category: AI code-generation app builder
+- Score: 83
+- Best fit: Founders and teams who want prompt-generated React/Next.js apps with real code and a clean path to Vercel deployment.
+- Main caveat: You get serious code ownership, but you also inherit a more developer-oriented workflow than true no-code tools.
+- Coding needed: Helpful. You can generate a lot by prompt, but understanding the code and deployment model makes a big difference.
+- Database: Official - Official integration rather than a standalone built-in database. Typical setups use Vercel marketplace integrations such as Postgres or other external DB services.
+- A/B testing: Native - Native in the Vercel ecosystem. Vercel Flags and related tooling can power experimentation, though this is really a Vercel capability layered onto v0 outputs.
+- Ecommerce: No - Official integration/template friendly. v0 can generate ecommerce front ends and use commerce integrations, but it is not a one-click store back office by itself.
+- Ads: Third-party - Third-party/manual.
+- SEO: Partial - Partial/manual. Since v0 outputs real code, you can absolutely build SEO-friendly apps, but you manage that through the generated app and deployment rather than a big SEO dashboard.
+- Analytics: Native - Native in the Vercel ecosystem through Web Analytics.
+- Build by prompt: Yes. That is the main entry point.
+- Edit by prompt: Yes. Prompt-based iteration is a core workflow.
+- Need custom domain to go public: No. You can use preview and deployment URLs first; a custom domain is optional later.
+- Publishing model: Deploy to Vercel, share preview URLs, then promote to production and connect a custom domain if desired.
+- Video games: Yes for simple web games. It is still a web-app generator, not a dedicated game engine.
+- Surveys save responses: Yes, if you connect a database or backend service.
+- Multi-user web apps: Yes, but only once you set up the necessary auth/backend pieces.
+- Easy sharing: Easy for previews, handoff, and code sharing.
+- Sources reviewed: v0.dev, vercel.com
+
+### Webflow
+- URL: https://nocodeappindex.com/webflow/
+- Category: Website builder with CMS and optimization stack
+- Score: 87
+- Best fit: Marketing sites, content sites, branded startup websites, and design-forward launches that need SEO.
+- Main caveat: It is excellent for websites and memberships, but it is not a full relational app backend like Firebase, Bubble, or Lovable.
+- Coding needed: No.
+- Database: Native - Native, but mostly CMS/content-oriented rather than a general relational app database. Great for content and forms, less ideal for complex app data models.
+- A/B testing: Native - Native. Webflow Optimize provides experimentation/personalization capabilities.
+- Ecommerce: Native - Native. Webflow has its own ecommerce product.
+- Ads: Third-party - Third-party/manual.
+- SEO: Native - Native and strong. SEO is one of Webflow’s biggest strengths.
+- Analytics: Native - Native. Webflow Analyze is first-party.
+- Build by prompt: Yes. Webflow AI can generate sites from prompts.
+- Edit by prompt: Partial. AI helps, but visual editing remains central.
+- Need custom domain to go public: No. You can publish to a staging Webflow URL first; a custom domain is optional for the branded version.
+- Publishing model: Publish to a webflow.io staging URL or to your own custom domain with a site plan.
+- Video games: No.
+- Surveys save responses: Yes. Forms can save submissions, but Webflow is not a full survey platform or app backend.
+- Multi-user web apps: Limited/partial. User Accounts and memberships exist, but full SaaS-style app logic is not the core product.
+- Easy sharing: Easy.
+- Sources reviewed: webflow.com, help.webflow.com
+
+### WeWeb
+- URL: https://nocodeappindex.com/weweb/
+- Category: No-code frontend builder for web apps
+- Score: 77
+- Best fit: Teams that care about custom front ends and are willing to connect a real backend such as Supabase, Xano, or custom APIs.
+- Main caveat: It is not as all-in-one as Lovable or Bubble unless your app needs are relatively simple.
+- Coding needed: No for basics; helpful for advanced cases and custom components.
+- Database: Partial - Usually third-party for core app data. WeWeb is front-end-first, though WeWeb Auth reduces the need for a separate auth layer.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: Third-party - Third-party/manual.
+- Ads: Third-party - Third-party/manual.
+- SEO: Native - Native. WeWeb documents page SEO features and static content options.
+- Analytics: Official - Official integrations rather than native analytics. Segment and GTM-style integrations are common.
+- Build by prompt: Yes.
+- Edit by prompt: Yes.
+- Need custom domain to go public: No. WeWeb provides preview/hosted URLs first; custom domains come with hosting plans or self-hosting workflows.
+- Publishing model: Publish on WeWeb hosting or export/self-host, then connect a custom domain if needed.
+- Video games: Limited. Simple browser experiences are possible, but games are not its main focus.
+- Surveys save responses: Yes, if connected to a backend or form-handling setup.
+- Multi-user web apps: Yes. User auth, roles, and connected backends make multi-user apps viable.
+- Easy sharing: Easy.
+- Sources reviewed: weweb.io, docs.weweb.io
+
+### Wix
+- URL: https://nocodeappindex.com/wix/
+- Category: All-in-one website builder
+- Score: 81
+- Best fit: Small business websites, online stores, service businesses, and site owners who want many built-in business tools in one place.
+- Main caveat: It is powerful as an all-in-one website product, but true custom app-building can push you into Velo or extra setup.
+- Coding needed: No for standard site building.
+- Database: Partial - Native/partial. Wix CMS collections and related data features act as a built-in content/data layer, though advanced app logic may need Velo.
+- A/B testing: Partial - Partial/native. Wix supports test sites with adjustable traffic exposure, which is useful for release testing, but it is not as full-featured an experimentation stack as dedicated A/B platforms.
+- Ecommerce: Native - Native. Wix has built-in ecommerce.
+- Ads: No - Third-party/manual for monetization or ad networks. Ads are not a core first-party site-builder feature in the same sense as ecommerce or analytics.
+- SEO: Native - Native and strong. Wix has a mature SEO dashboard, assistant, and page-level settings.
+- Analytics: Native - Native. Wix Analytics is first-party.
+- Build by prompt: Yes. Wix AI/vibe flows can create a site from chat prompts.
+- Edit by prompt: Yes. AI editing is supported alongside manual editing.
+- Need custom domain to go public: No. You can publish publicly on a free Wix URL. A custom domain is optional but usually requires a paid plan.
+- Publishing model: Publish live from the editor, use test sites when needed, and attach a custom domain on eligible plans.
+- Video games: No.
+- Surveys save responses: Yes. Wix Forms can store submissions and connect to CMS collections or business tools.
+- Multi-user web apps: Limited/partial. Members Area and user accounts are available, but Wix is not primarily a complex multi-user SaaS builder.
+- Easy sharing: Easy.
+- Sources reviewed: wix.com, support.wix.com
+
+### Zoho Creator
+- URL: https://nocodeappindex.com/zoho-creator/
+- Category: Low-code business app builder
+- Score: 75
+- Best fit: SMBs and ops teams building database-backed business apps, customer portals, and workflow software.
+- Main caveat: It is much stronger for process apps than for public SEO websites or games.
+- Coding needed: No for many cases; advanced customization benefits from Deluge scripting.
+- Database: Native - Native. Creator includes its own data layer.
+- A/B testing: No - No official native A/B testing feature found in the docs reviewed.
+- Ecommerce: Third-party - Third-party/custom. You can build payment-related flows, but there is no standout first-party commerce suite in Creator.
+- Ads: No - No official native ad tooling found.
+- SEO: No - Limited. Public SEO is not a flagship capability.
+- Analytics: Native - Native/official. Creator includes reports and dashboards and can connect with Zoho Analytics for deeper analysis.
+- Build by prompt: Yes. Zia can create apps from text prompts and other inputs.
+- Edit by prompt: Yes/partial. AI can assist, but manual builder work is still part of the normal workflow.
+- Need custom domain to go public: No for basic portal/app URLs. Custom domains are available for customer portals on supported plans.
+- Publishing model: Publish apps and portals publicly, privately, or with restricted access, with custom-domain options in supported portal setups.
+- Video games: No.
+- Surveys save responses: Yes.
+- Multi-user web apps: Yes.
+- Easy sharing: Easy.
+- Sources reviewed: zoho.com, help.zoho.com
+
+## Recommended Retrieval Use
+
+- For a direct product answer, retrieve the product page and the feature chart.
+- For broad comparisons, retrieve /compare/ and /features/.
+- For definitions of Native, Official, Third-party, Partial, Limited, and No, retrieve /methodology/.
+- For source provenance, retrieve /sources/.
