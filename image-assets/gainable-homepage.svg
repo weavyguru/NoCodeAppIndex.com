@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" font-family="Inter, Arial, sans-serif">
+  <rect width="1200" height="720" rx="26" fill="#eef1ef"/>
+  <rect x="40" y="40" width="1120" height="640" rx="20" fill="#ffffff" stroke="#e2e7e5"/>
+  <!-- top bar -->
+  <g>
+    <circle cx="86" cy="92" r="9" fill="#f36b3c"/>
+    <circle cx="112" cy="92" r="9" fill="#bcbdbe"/>
+    <circle cx="138" cy="92" r="9" fill="#969697"/>
+    <text x="168" y="99" font-size="30" font-weight="800" fill="#16202a">Gainable</text>
+    <rect x="900" y="72" width="220" height="40" rx="20" fill="#fff2ec"/>
+    <text x="1010" y="98" font-size="18" font-weight="700" fill="#f36b3c" text-anchor="middle">Publish</text>
+  </g>
+  <text x="86" y="176" font-size="34" font-weight="800" fill="#16202a">Sales Ops</text>
+  <text x="86" y="214" font-size="19" fill="#5d6b76">Turn your spreadsheets and CRM data into live team apps</text>
+  <!-- KPI tiles -->
+  <g>
+    <rect x="86" y="250" width="320" height="130" rx="14" fill="#f7f9f8" stroke="#e6ebe9"/>
+    <text x="110" y="292" font-size="16" font-weight="700" fill="#5d6b76">TOTAL DEALS</text>
+    <text x="110" y="344" font-size="46" font-weight="800" fill="#16202a">1,248</text>
+    <rect x="440" y="250" width="320" height="130" rx="14" fill="#f7f9f8" stroke="#e6ebe9"/>
+    <text x="464" y="292" font-size="16" font-weight="700" fill="#5d6b76">WON</text>
+    <text x="464" y="344" font-size="46" font-weight="800" fill="#2f9e6e">812</text>
+    <rect x="794" y="250" width="320" height="130" rx="14" fill="#f7f9f8" stroke="#e6ebe9"/>
+    <text x="818" y="292" font-size="16" font-weight="700" fill="#5d6b76">LOST</text>
+    <text x="818" y="344" font-size="46" font-weight="800" fill="#d86d57">436</text>
+  </g>
+  <!-- bar chart -->
+  <g>
+    <rect x="86" y="410" width="620" height="230" rx="14" fill="#f7f9f8" stroke="#e6ebe9"/>
+    <text x="110" y="452" font-size="16" font-weight="700" fill="#5d6b76">PIPELINE BY STAGE</text>
+    <rect x="120" y="560" width="70" height="56" rx="6" fill="#d0d1d2"/>
+    <rect x="215" y="520" width="70" height="96" rx="6" fill="#aaaaab"/>
+    <rect x="310" y="486" width="70" height="130" rx="6" fill="#838383"/>
+    <rect x="405" y="512" width="70" height="104" rx="6" fill="#969697"/>
+    <rect x="500" y="470" width="70" height="146" rx="6" fill="#f36b3c"/>
+    <rect x="595" y="540" width="70" height="76" rx="6" fill="#bcbdbe"/>
+  </g>
+  <!-- table hint -->
+  <g>
+    <rect x="740" y="410" width="374" height="230" rx="14" fill="#f7f9f8" stroke="#e6ebe9"/>
+    <text x="764" y="452" font-size="16" font-weight="700" fill="#5d6b76">RECENT DEALS</text>
+    <line x1="764" y1="486" x2="1090" y2="486" stroke="#e6ebe9"/>
+    <circle cx="776" cy="512" r="7" fill="#f36b3c"/><rect x="796" y="505" width="180" height="14" rx="7" fill="#dfe4e2"/><rect x="1010" y="505" width="60" height="14" rx="7" fill="#e9edeb"/>
+    <line x1="764" y1="540" x2="1090" y2="540" stroke="#eef1ef"/>
+    <circle cx="776" cy="566" r="7" fill="#2f9e6e"/><rect x="796" y="559" width="150" height="14" rx="7" fill="#dfe4e2"/><rect x="1010" y="559" width="60" height="14" rx="7" fill="#e9edeb"/>
+    <line x1="764" y1="594" x2="1090" y2="594" stroke="#eef1ef"/>
+    <circle cx="776" cy="620" r="7" fill="#838383"/><rect x="796" y="613" width="196" height="14" rx="7" fill="#dfe4e2"/><rect x="1010" y="613" width="60" height="14" rx="7" fill="#e9edeb"/>
+  </g>
+</svg>
